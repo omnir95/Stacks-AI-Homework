@@ -1,0 +1,7 @@
+3
+ABCD
+EFG
+H
+2
+AB
+EFHDCG
